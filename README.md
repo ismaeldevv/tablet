@@ -7,3 +7,7 @@ A versatile tablet integrated with an MDT (Mobile Data Terminal) system, designe
 # Features
 
 Coming soons
+
+# Server
+
+https://discord.gg/xSdjj9N5MQ
